@@ -1,4 +1,5 @@
-## Hi there 👋
+<div style="font-size:40px; font-weight:bold;">Welcome to my profile! 👋</div>
+<div style="font-size:25px; font-weight:bold;">I'm Jean Carlos Rivas Foskin</div>
 
 <!--
 **JnCRivs/JnCRivs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
