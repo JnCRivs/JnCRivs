@@ -15,7 +15,7 @@ I'm currently seeking for a entry-level opportunity in a IT related field, mostl
 For any reference or asistance, feel free to contact me via my <a href="https://www.linkedin.com/in/jncrivs/">LinkedIn</a> on this profile. </p>
 
 
-<h2>👨‍💻 Programing Skills and Software Knowledge</h2>
+<h2>👨‍💻 Programming Skills and Software Knowledge</h2>
 
 <ul>
     <li> C++, Python, SQL </li>
