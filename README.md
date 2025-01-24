@@ -1,7 +1,7 @@
 
-<h1 style="text-align: center;">    
+<h1 align="center">    
         Welcome to my profile!👋🙂 <br>
-        I'm Jean Carlos Rivas Foskin 
+        I'm <b> Jean Carlos Rivas Foskin </b> 
 </h1>
 
 <!--
