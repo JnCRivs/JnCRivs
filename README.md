@@ -1,5 +1,13 @@
-<div style="font-size:40px; font-weight:bold;">Welcome to my profile! 👋</div>
-<div style="font-size:25px; font-weight:bold;">I'm Jean Carlos Rivas Foskin</div>
+<style>
+    h1{
+        text-align: center;
+    }
+</style>
+
+
+
+<h1>Welcome to my profile!👋🙂 <br>
+I'm Jean Carlos Rivas Foskin </h1>
 
 <!--
 **JnCRivs/JnCRivs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
