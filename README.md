@@ -4,7 +4,7 @@
         I'm <b> Jean Carlos Rivas Foskin </b> 
 </h1>
 
-<h2>👨 About me</h2>
+<h2>🗒️ About me</h2>
 
 <p> Near-graduate student from the Technological University of Panamá, specialized in proposing system prototypes/documentation. I'm very enthusiasthic about learning the trends in the world of both Networking and Cybersecurity.
 
